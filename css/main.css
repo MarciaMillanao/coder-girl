@@ -29,8 +29,7 @@ li{
 
 #hackathon{
 	background: #F1E308;
-	padding: 5%;
-
+	padding: 5%;	
 }
 
 #hackathon h3{
@@ -52,4 +51,8 @@ footer{
 	background: #61A3D0;
 	padding: 3%;
 	color:#FFFFFF ;
+}
+
+footer span {
+	color:#FBED4C;
 }
