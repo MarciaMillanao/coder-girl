@@ -1,0 +1,55 @@
+li{
+	float: left;
+}
+
+
+.azul{
+	background-image: url(../img/home.jpg);
+	background-size: cover;
+	padding: 15%;
+	margin-bottom: 5%;
+}
+
+.azul h1{
+	color:#FFFFFF;
+}
+
+#documental{
+	margin: 3% 0%;
+	padding: 3%;
+}
+
+#documental h2{
+	padding-bottom: 3%;
+}
+
+#documental h3 {
+	padding: 3%;
+}
+
+#hackathon{
+	background: #F1E308;
+	padding: 5%;
+
+}
+
+#hackathon h3{
+	padding: 3%;
+}
+
+.computador{
+	margin-top: 7%;
+}
+#contacto{
+	padding: 5%;
+}
+
+#contacto h1 {
+	padding: 5%;
+}
+
+footer{
+	background: #61A3D0;
+	padding: 3%;
+	color:#FFFFFF ;
+}
